@@ -1,6 +1,6 @@
 import React from 'react';
 import Layout from "../layout/Layout";
-import Flight from "../Flight";
+import Flight from '../components/flight/Flight';
 function Home() {
   return (
     <div>
